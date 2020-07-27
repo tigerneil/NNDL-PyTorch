@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+"""
+Author: Jing Li
+"""
+
 
 import torch
 import torchvision.datasets as dsets
